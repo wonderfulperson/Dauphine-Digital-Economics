@@ -18,4 +18,9 @@ window.onload = function(){
 	function HexToWei(hexBalance){
 		return parseInt(hexBalance, 16);
 	}
+
+	document.getElementById("button").onclick = async() => {
+	window.open("https://dauphine.psl.eu/")
+	}
 };
+
