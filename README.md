@@ -4,6 +4,7 @@ Dear professor,
 Please find my homework here. Putting my picture makes me a little uncomfortable even if it is a professional one that has been required. So I put something else instead. I hope this will not generate a big problem.
 
 Sincerely,
+
 Yangjiawei Xue
 
 <!--
